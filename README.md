@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shreeez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Nikolay
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/shreezzi
 

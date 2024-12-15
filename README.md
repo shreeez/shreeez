@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikolay
-- 👀 I’m interested in computers
 - 📫 https://t.me/NSYakunin
 
 <!---
